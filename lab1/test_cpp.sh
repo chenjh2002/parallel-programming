@@ -1,0 +1,1 @@
+./exe_file/matmul_cpp.o 100 100

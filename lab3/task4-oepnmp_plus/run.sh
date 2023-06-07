@@ -1,0 +1,1 @@
+gcc -g -Wall omp_schedule_matmul.c -o omp_schedule_matmul.o -fopenmp

@@ -1,0 +1,1 @@
+./exe_file/simd.o 100 100

@@ -1,0 +1,1 @@
+gcc -Wall condvar.c -lpthread -lm -o condvar.o

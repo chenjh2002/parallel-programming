@@ -1,0 +1,221 @@
+
+参数列表: width(256) height(256) window_size(5)
+time using:0.481484s
+time using:0.422380s
+time using:0.414066s
+time using:0.426911s
+time using:0.415947s
+time using:0.449555s
+time using:0.448797s
+time using:0.443629s
+time using:0.458714s
+time using:0.415293s
+参数列表: width(256) height(256) window_size(7)
+time using:0.410233s
+time using:0.417944s
+time using:0.444969s
+time using:0.446407s
+time using:0.441910s
+time using:0.444119s
+time using:0.425906s
+time using:0.418211s
+time using:0.420320s
+time using:0.411600s
+参数列表: width(256) height(256) window_size(9)
+time using:0.455672s
+time using:0.417371s
+time using:0.419569s
+time using:0.418194s
+time using:0.424802s
+time using:0.421995s
+time using:0.421215s
+time using:0.424829s
+time using:0.448269s
+time using:0.454316s
+参数列表: width(256) height(256) window_size(11)
+time using:0.424698s
+time using:0.435823s
+time using:0.419839s
+time using:0.415008s
+time using:0.425870s
+time using:0.418321s
+time using:0.421422s
+time using:0.420028s
+time using:0.422411s
+time using:0.456350s
+参数列表: width(1024) height(1024) window_size(5)
+time using:0.424799s
+time using:0.454601s
+time using:0.432069s
+time using:0.456029s
+time using:0.454475s
+time using:0.428617s
+time using:0.457066s
+time using:0.431051s
+time using:0.458346s
+time using:0.419026s
+参数列表: width(1024) height(1024) window_size(7)
+time using:0.429711s
+time using:0.466768s
+time using:0.452890s
+time using:0.421916s
+time using:0.464110s
+time using:0.462746s
+time using:0.453504s
+time using:0.459256s
+time using:0.430890s
+time using:0.458921s
+参数列表: width(1024) height(1024) window_size(9)
+time using:0.436730s
+time using:0.435336s
+time using:0.435536s
+time using:0.433279s
+time using:0.432531s
+time using:0.462761s
+time using:0.432766s
+time using:0.432157s
+time using:0.430702s
+time using:0.429036s
+参数列表: width(1024) height(1024) window_size(11)
+time using:0.437884s
+time using:0.445101s
+time using:0.466614s
+time using:0.465381s
+time using:0.478616s
+time using:0.461891s
+time using:0.465695s
+time using:0.439034s
+time using:0.479768s
+time using:0.445338s
+参数列表: width(2048) height(2048) window_size(5)
+time using:0.483308s
+time using:0.450115s
+time using:0.482265s
+time using:0.473158s
+time using:0.472561s
+time using:0.478636s
+time using:0.477616s
+time using:0.448987s
+time using:0.482390s
+time using:0.481436s
+参数列表: width(2048) height(2048) window_size(7)
+time using:0.490406s
+time using:0.497218s
+time using:0.463774s
+time using:0.495935s
+time using:0.491691s
+time using:0.490480s
+time using:0.489217s
+time using:0.499286s
+time using:0.463723s
+time using:0.468545s
+参数列表: width(2048) height(2048) window_size(9)
+time using:0.518540s
+time using:0.481202s
+time using:0.480060s
+time using:0.513070s
+time using:0.513756s
+time using:0.508026s
+time using:0.505697s
+time using:0.510486s
+time using:0.506091s
+time using:0.480049s
+参数列表: width(2048) height(2048) window_size(11)
+time using:0.528982s
+time using:0.500643s
+time using:0.526142s
+time using:0.530228s
+time using:0.511759s
+time using:0.530752s
+time using:0.502330s
+time using:0.500640s
+time using:0.541542s
+time using:0.503803s
+参数列表: width(4096) height(4096) window_size(5)
+time using:0.574632s
+time using:0.576396s
+time using:0.580991s
+time using:0.577701s
+time using:0.581299s
+time using:0.541514s
+time using:0.541997s
+time using:0.547400s
+time using:0.547137s
+time using:0.579842s
+参数列表: width(4096) height(4096) window_size(7)
+time using:0.628085s
+time using:0.597178s
+time using:0.605883s
+time using:0.600404s
+time using:0.638641s
+time using:0.595013s
+time using:0.625121s
+time using:0.629342s
+time using:0.603801s
+time using:0.599976s
+参数列表: width(4096) height(4096) window_size(9)
+time using:0.676615s
+time using:0.681332s
+time using:0.679358s
+time using:0.731798s
+time using:0.711714s
+time using:0.708512s
+time using:0.728819s
+time using:0.708997s
+time using:0.699641s
+time using:0.672479s
+参数列表: width(4096) height(4096) window_size(11)
+time using:0.837667s
+time using:0.773530s
+time using:0.819164s
+time using:0.811547s
+time using:0.763313s
+time using:0.815609s
+time using:0.775207s
+time using:0.791131s
+time using:0.796294s
+time using:0.806180s
+参数列表: width(8192) height(8192) window_size(5)
+time using:0.870002s
+time using:0.900309s
+time using:0.879583s
+time using:0.884229s
+time using:0.870115s
+time using:1.037491s
+time using:0.935781s
+time using:0.904453s
+time using:0.930490s
+time using:0.911108s
+参数列表: width(8192) height(8192) window_size(7)
+time using:1.102163s
+time using:1.139521s
+time using:1.088494s
+time using:1.120113s
+time using:1.122371s
+time using:1.252211s
+time using:1.125592s
+time using:1.093257s
+time using:1.135188s
+time using:1.234612s
+参数列表: width(8192) height(8192) window_size(9)
+time using:1.414586s
+time using:1.381200s
+time using:1.412411s
+time using:1.379959s
+time using:1.411685s
+time using:1.390956s
+time using:1.413006s
+time using:1.429045s
+time using:1.387993s
+time using:1.411448s
+参数列表: width(8192) height(8192) window_size(11)
+time using:1.855785s
+time using:1.897967s
+time using:1.876915s
+time using:1.874866s
+time using:1.885568s
+time using:1.880117s
+time using:1.912121s
+time using:2.279202s
+time using:1.971833s
+time using:1.970430s

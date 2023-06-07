@@ -1,0 +1,1 @@
+gcc -fopenmp -Wall test_omp.c -o test_omp

@@ -1,0 +1,1 @@
+./exe_file/matmul_iter.o 100 100
