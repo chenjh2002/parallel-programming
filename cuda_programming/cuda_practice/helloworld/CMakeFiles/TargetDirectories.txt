@@ -1,3 +1,0 @@
-/data3/cjh/并行程序设计/cuda_practice/helloworld/CMakeFiles/rebuild_cache.dir
-/data3/cjh/并行程序设计/cuda_practice/helloworld/CMakeFiles/edit_cache.dir
-/data3/cjh/并行程序设计/cuda_practice/helloworld/CMakeFiles/helloworld.dir
